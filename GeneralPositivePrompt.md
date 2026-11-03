@@ -1,0 +1,1 @@
+4::very aesthetic, masterpiece, no text,:: depth of field, film grain, high complexity, highres, 1.5::detailed eyes::, 1.5::detailed skin texture::,   best quality, very aesthetic, absurdres, comic, year 2025, year 2026,

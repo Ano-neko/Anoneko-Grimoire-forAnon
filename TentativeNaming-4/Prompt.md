@@ -1,0 +1,5 @@
++:
+4::very aesthetic, masterpiece, no text,:: depth of field, film grain, high complexity, highres, 1.5::detailed eyes::, 1.5::detailed skin texture::,   best quality, very aesthetic, absurdres, comic, year 2025, year 2026,artist:road_233, year 2025, 0.5::artist:achiki, ::chihaya anon, grey eyes, long hair, pink hair, eardrop, white skirt, fang, standing on the lawn, leaning against the tree trunk and extending her right hand towards the sky, full body, 
+
+-:
+nsfw, lowres, artistic error, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, lowres, bad, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, abstract, lowres, jpeg artifacts, worst quality, bad quality, very displeasing, text, error, missing, warm color, extra, missing fingers, fewer, cropped, jpeg artifacts, fat, multiple views, cross-section, split screen, blood
