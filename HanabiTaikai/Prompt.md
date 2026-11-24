@@ -1,0 +1,12 @@
++:
+0.8::artist:hiten::, 1.03::artist:tianliang_duohe_fangdongye::, 1.02::artist:momoko_(momopoco)::, 0.8::artist:kazutake_hazano::, 1.05::artist:onineko::, 0.9::artist:mika_pikazo::, masterpiece, best_quality, amazing_quality, very_aesthetic, absurdres, intricate_details, year_2025, highly detailed, 
+
+very aesthetic, masterpiece, no text, 1.5::detailed eyes::, 4:: very aesthetic, masterpiece, no text,::
+
+1girl, solo, chihaya anon, grey eyes, long hair, pink hair, eardrop, fang, expressionless,0.8::smile::, yukata, candy apple, hanabi taikai, fireworks in full bloom, starry sky, Shinto shrine, riverbank, character is in the left half of the frame, 
+
+-:
+lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, lowres, artistic_error, film_grain, scan_artifacts, worst_quality, bad_quality, jpeg_artifacts, very_displeasing, chromatic_aberration, dithering, halftone, screentone, multiple_views, logo, too_many_watermarks, negative_space, blank_page, dairi, kanon (kurogane_knights), 0.5::kou_hiyoyo::, tsuda_nanafushi, tukiwani, mizuki_hitoshi, anatomical_nonsense, lowres, film_grain, worst_quality, jpeg_artifacts, very_displeasing, dithering, halftone, screentone, logo, too_many_watermarks, negative_space, blank_page, blurry, floating_particles, noise, noisy, jpeg_artifacts, compression_artifacts, chromatic_aberration, scan_artifacts, error, glitch, damaged, artifacts, censored, letters, title, language_text, watermark, signature, username, artist_name, bad_anatomy, fused_toes, anatomical_error, broken_anatomy, bad_proportions, deformed, disfigured, malformed, poorly_drawn_face, ugly_face, bad_face_drawing, poorly_drawn_hands, bad_hand_drawing, ugly_hands, poor_hand_details, poorly_drawn_feet, bad_foot_drawing, ugly_feet, poor_foot_details, extra_fingers, missing_fingers, fused_fingers, extra_limbs, missing_limbs, disconnected_limbs, fused_body_parts, extra_toes, missing_toes, incoming_attack, unfinished, messy, ugly, bad_art, artistic_error, abstract, chibi_inset, chibi, text, bold_lines, ai-generated, multiple_views, white_background, plump, gaoo (frpjx283), lineart
+
+Ref:
+https://novelai.quicktagcloud.com/share/artist_nai5_personal/artist_nai5_personal_wof_v1_0046
