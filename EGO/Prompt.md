@@ -83,3 +83,16 @@ girl, chihaya anon, grey eyes, pink hair, eardrop, fang, 0.8::cosplay ultimate m
 c2:
 girl, loli, small breast, long black hair, crossed bangs, 1.4::golden left eyes, silver right eye::, cat tail, long black dress, silver cross necklace, 0.8::cosplay akemi homura::, 
 
+EGO6:
+
++:
+1.3::masterpiece, best quality,Highly detailed::,1.2::volumetric light and shadow,light particles,light rays,shadow,cinematic lighting::,0.5::artist:freng::,0.7::artist:yoneyama mai::,0.5::artist:scottie (phantom2)::, year 2026,
+very aesthetic, masterpiece, 1.5::detailed eyes::, 4:: very aesthetic, masterpiece, cinematic lighting::,
+
+At night, fireworks bloomed in the sky, and the two of them were wearing yukata. On the right side of the painting, fireworks bloomed, and by the riverbank, the two looked at each other
+
+c1:
+girl, chihaya anon, grey eyes, pink hair, eardrop, expressionless, smile, 
+
+c2:
+girl, loli, small breast, long hair, black hair, crossed bangs, golden left eyes, silver right eye, cat ears, black clothes, silver cross necklace, shy, 
